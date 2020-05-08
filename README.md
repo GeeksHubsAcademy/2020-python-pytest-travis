@@ -4,7 +4,7 @@
     <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/logo.png" >	
 </p>
 
-[![Build Status](https://travis-ci.com/geekshubs/2020-python-pytest-travis.svg?branch=master)](https://travis-ci.com/geekshubs/2020-python-pytest-travis)
+[![Build Status](https://travis-ci.com/GeeksHubsAcademy/2020-python-pytest-travis.svg?branch=master)](https://travis-ci.com/GeeksHubsAcademy/2020-python-pytest-travis)
 ```
 $ cd vicboma1/2020-python-pytest-travis
 
